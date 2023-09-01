@@ -1,0 +1,139 @@
+NOC,Country,Bronze,Gold,Silver,Total
+USA,United States,1052,2088,1195,4335
+URS,Soviet Union,584,838,627,2049
+GBR,United Kingdom,505,498,591,1594
+FRA,France,475,378,461,1314
+GER,Germany,454,407,350,1211
+AUS,Australia,413,293,369,1075
+ITA,Italy,374,460,394,1228
+HUN,Hungary,345,400,308,1053
+SWE,Sweden,325,347,349,1021
+NED,Netherlands,320,212,250,782
+ROU,Romania,282,155,187,624
+JPN,Japan,270,206,228,704
+RUS,Russia,240,192,206,638
+CAN,Canada,227,154,211,592
+GDR,East Germany,225,329,271,825
+POL,Poland,223,103,173,499
+FIN,Finland,209,124,118,451
+CHN,China,193,234,252,679
+FRG,West Germany,180,143,167,490
+BRA,Brazil,174,59,139,372
+DEN,Denmark,152,147,192,491
+BEL,Belgium,150,91,167,408
+NOR,Norway,144,194,199,537
+SUI,Switzerland,138,73,165,376
+BUL,Bulgaria,136,53,142,331
+KOR,"Korea, South",135,140,191,466
+YUG,Yugoslavia,118,143,174,435
+CUB,Cuba,109,160,126,395
+TCH,Czechoslovakia,105,80,144,329
+ESP,Spain,92,92,193,377
+EUA,Unified team of Germany,92,68,100,260
+ARG,Argentina,88,68,83,239
+UKR,Ukraine,78,32,38,148
+EUN,Unified team,66,92,65,223
+NZL,New Zealand,61,76,27,164
+BLR,Belarus,53,14,25,92
+GRE,Greece,49,34,62,145
+MEX,Mexico,48,14,18,80
+AUT,Austria,44,21,81,146
+LTU,Lithuania,42,4,4,50
+JAM,Jamaica,39,23,40,102
+RSA,South Africa,36,24,37,97
+PAK,Pakistan,34,42,45,121
+IND,India,34,128,16,178
+PRK,"Korea, North",30,10,12,52
+URU,Uruguay,30,44,2,76
+NGR,Nigeria,27,19,38,84
+KEN,Kenya,24,26,31,81
+TUR,Turkey,22,37,23,82
+IRI,Iran,22,11,15,48
+CHI,Chile,21,3,9,33
+EST,Estonia,19,9,9,37
+CRO,Croatia,18,31,30,79
+POR,Portugal,18,4,9,31
+GHA,Ghana,15,,1,16
+KAZ,Kazakhstan,14,9,16,39
+ETH,Ethiopia,14,18,6,38
+SRB,Serbia,14,,1,15
+TPE,Taiwan,13,2,27,42
+CZE,Czech Republic,13,10,18,41
+INA,Indonesia,12,9,14,35
+TRI,Trinidad and Tobago,11,1,8,20
+SLO,Slovenia,11,4,6,21
+GEO,Georgia,11,5,2,18
+ZZX,Mixed teams,10,23,15,48
+EGY,Egypt,10,7,7,24
+MGL,Mongolia,10,2,7,19
+MAR,Morocco,10,6,5,21
+THA,Thailand,10,7,4,21
+RU1,0,9,1,7,17
+AZE,Azerbaijan,9,4,3,16
+SVK,Slovakia,8,10,11,29
+IRL,Ireland,8,8,8,24
+UZB,Uzbekistan,8,4,5,17
+ALG,Algeria,8,4,2,14
+VEN,Venezuela,8,1,2,11
+COL,Colombia,7,1,3,11
+PHI,Philippines,7,,2,9
+ARM,Armenia,7,1,1,9
+HAI,Haiti,7,,1,8
+BOH,Bohemia,6,,1,7
+BAH,Bahamas,5,9,9,23
+ANZ,Australasia,5,20,4,29
+ISR,Israel,5,1,1,7
+PUR,Puerto Rico*,5,,1,6
+BWI,British West Indies,5,,,5
+LAT,Latvia,4,2,11,17
+MAS,Malaysia,3,,3,6
+MDA,Moldova,3,,3,6
+TUN,Tunisia,3,2,2,7
+ISL,Iceland,2,,15,17
+UGA,Uganda,2,1,3,6
+LIB,Lebanon,2,,2,4
+CRC,Costa Rica,2,1,1,4
+IOP,Independent Olympic Participants (1992),2,,1,3
+KGZ,Kyrgyzstan,2,,1,3
+PAN,Panama,2,1,,3
+QAT,Qatar,2,,,2
+ZIM,Zimbabwe,1,18,4,23
+CMR,Cameroon,1,20,1,22
+DOM,Dominican Republic,1,2,1,4
+SYR,Syria,1,1,1,3
+KSA,Saudi Arabia,1,,1,2
+TJK,Tajikistan,1,,1,2
+ZAM,Zambia,1,,1,2
+MOZ,Mozambique,1,1,,2
+SUR,Suriname,1,1,,2
+AFG,Afghanistan,1,,,1
+BAR,Barbados,1,,,1
+BER,Bermuda*,1,,,1
+DJI,Djibouti,1,,,1
+ERI,Eritrea,1,,,1
+GUY,Guyana,1,,,1
+IRQ,Iraq,1,,,1
+KUW,Kuwait,1,,,1
+MKD,Macedonia,1,,,1
+MRI,Mauritius,1,,,1
+NIG,Niger,1,,,1
+TOG,Togo,1,,,1
+PAR,Paraguay,,,17,17
+PER,Peru,,1,14,15
+SCG,Serbia,,,14,14
+NAM,Namibia,,,4,4
+SIN,Singapore,,,4,4
+HKG,Hong Kong*,,1,2,3
+SRI,Sri Lanka,,,2,2
+TAN,Tanzania,,,2,2
+VIE,Vietnam,,,2,2
+ECU,Ecuador,,1,1,2
+LUX,Luxembourg,,1,1,2
+AHO,Netherlands Antilles*,,,1,1
+CIV,Cote d'Ivoire,,,1,1
+ISV,Virgin Islands*,,,1,1
+SEN,Senegal,,,1,1
+SUD,Sudan,,,1,1
+TGA,Tonga,,,1,1
+BDI,Burundi,,1,,1
+UAE,United Arab Emirates,,1,,1
