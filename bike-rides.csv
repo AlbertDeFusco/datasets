@@ -1,4 +1,4 @@
-,max_temp,rainfall,snowfall,bike_rides,month,holiday,weekend
+date,max_temp,rainfall,snowfall,bike_rides,month,holiday,weekend
 2015-05-31,83,0.25,0.0,469,5,False,True
 2015-06-01,56,0.0001,0.0,113,6,False,False
 2015-06-02,63,0.0,0.0,139,6,False,False
